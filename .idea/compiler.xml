@@ -10,6 +10,7 @@
         <module name="eurekaserver" />
         <module name="hystrix" />
         <module name="nativeconfigserver" />
+        <module name="configclient" />
         <module name="ribbon" />
         <module name="eurekaclient" />
         <module name="zuul" />
